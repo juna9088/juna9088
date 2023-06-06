@@ -1,0 +1,8 @@
+<=========================== CARA UPDATE WEBSITE DI GITHUB ===========================>
+1. Buka terminal di vs code
+2. Masuk ke folder website yang akan di update
+    => Ketik ( git add . ) -> Enter
+    => Ketik ( git commit -m 'apa saja yang akan di update' ) -> Enter
+    => Ketik ( git push ) -> Enter
+3. Buka Github lalu refresh/reload Githubnya
+4. Buka Website yang akan di update lalu refresh/reload Websitenya
